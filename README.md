@@ -62,11 +62,12 @@ pip install pandas numpy scikit-learn rank-bm25 sentence-transformers tqdm
 # Lancer le notebook
 jupyter notebook Projet_NLP.ipynb
 ```
-## Auteur 
-Etudiant - BOULMIER Ilan
 
 Le notebook est structuré en 3 parties :
 1. **Data Cleaning** — filtrage, concaténation, split train/test
 2. **Model + Evaluation** — BM25, TF-IDF, améliorations, Sentence Transformers
 3. **Conclusion** — tableau comparatif des résultats
+
+## Auteur 
+Etudiant - BOULMIER Ilan
 
