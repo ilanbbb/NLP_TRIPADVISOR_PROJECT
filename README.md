@@ -1,4 +1,4 @@
-# 🗺️ TripAdvisor Place Retrieval — NLP Project
+#  TripAdvisor Place Retrieval — NLP Project
 
 > Projet NLP — Information Retrieval sur données TripAdvisor  
 > Par **Boulmier Ilan**
