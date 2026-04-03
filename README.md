@@ -14,6 +14,12 @@ L'évaluation se fait à deux niveaux :
 - **Level 2** : le lieu recommandé partage-t-il les mêmes métadonnées (type de cuisine, gamme de prix, catégorie d'activité...) ?
 
 ---
+##  MON RAPPORT
+
+```
+# Lancer le pdf
+DIA2_report_nlp.pdf
+```
 
 ## Méthodologie
 
